@@ -37,7 +37,7 @@ Welcome! This repo highlights select projects, PoCs, tools, and research I've de
 - HTTP proxy support allows Burp/ZAP usage when performing discovery scans.
 - Additionally allows automated scanning wherever proxies are required.
 
-## Reverse Engineering
+## Reverse Engineering and CTFs
 ### [Defcon 32 Badge Hacks](https://github.com/morgenm/defcon32_badge_hacks)
 - Custom firmware modifications for the Defcon 32 badge.
 - Added functionality for running Rubber Ducky scripts over USB connection.
@@ -45,6 +45,10 @@ Welcome! This repo highlights select projects, PoCs, tools, and research I've de
 ### [Malwarebytes 2017 Crackme](https://morgenm.github.io/blog/tag/malwarebytes-crackme/)
 - Reverse engineered Malwarebytes 2017 Crackme challenge.
 - Writeups of my process and findings on my blog.
+
+### [Defcon 32 BioHacking Village CTF](https://defcon.org/html/defcon-32/dc-32-contest-results.html)
+- Our team, Ostrich Lab, achieved 2nd place out of 66 teams.
+- We scored 10,290 out of 13,182 possible points.
 
 ## Additional Contributions
 ### [GoSec](https://github.com/securego/gosec/)
